@@ -1,0 +1,1 @@
+This application is designed to evaluate the performance of automated object detection systems. It compares system predictions (Hypothesis) against human-annotated Ground Truth references.The tool is specifically tuned for detecting and validating labels like "dog" and "cat" within images. 
